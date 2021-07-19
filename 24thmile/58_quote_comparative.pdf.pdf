@@ -1,0 +1,3216 @@
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: Positioner/Fixed.php</p>
+<p>Line Number: 56</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Positioner/Fixed.php<br />
+			Line: 56<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 776<br />
+			Function: position			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 698<br />
+			Function: position			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableCell.php<br />
+			Line: 91<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRow.php<br />
+			Line: 46<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/TableRowGroup.php<br />
+			Line: 43<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Table.php<br />
+			Line: 488<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 738<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Page.php<br />
+			Line: 133<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php<br />
+			Line: 789<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/Dompdf.php<br />
+			Line: 826<br />
+			Function: reflow			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/Pdf.php<br />
+			Line: 22<br />
+			Function: render			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/controllers/Seller.php<br />
+			Line: 913<br />
+			Function: generate			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  A non-numeric value encountered</p>
+<p>Filename: FrameDecorator/Page.php</p>
+<p>Line Number: 494</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameDecorator/Page.php<br />
+			Line: 494<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dompdf/src/FrameReflower/Block.php<br />
+			Line: 741<br />
+			Function: check_page_break			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /var/www/html/24thmile/application/libraries/domhtmltopdf/dom
