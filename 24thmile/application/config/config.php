@@ -26,7 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 //$config['base_url'] = 'http://24thMile.com/';
 // $config['base_url'] = 'http://localhost/JB098/';
 //$config['base_url'] = 'http://52.41.183.204/JB098/';
-$config['base_url'] = 'http://localhost/24thmile/';
+$config['base_url'] = 'http://192.168.56.102/24thmile/';
 
 /*
 |--------------------------------------------------------------------------
