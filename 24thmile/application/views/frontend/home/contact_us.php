@@ -45,7 +45,7 @@ The best logistic _______,  <span>FAST </span> and  <span>SAFELY! </span></h4>--
           </div>
           <div class="col-12 col-lg-6 ">
 				<p>Feel free to talk to our online representative at any time you please using our Live Chat system on our website or one of the below instant messaging programs.</p>
-				<p>Please be patient while waiting for response. (24/7 Support!) Phone General Inquiries:   +91 7709065277</p>
+				<p>Please be patient while waiting for response. (24/7 Support!) Phone General Inquiries:   +91 8888395979</p>
           </div>
        </div>
      </div>
