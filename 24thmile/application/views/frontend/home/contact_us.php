@@ -36,7 +36,7 @@ The best logistic _______,  <span>FAST </span> and  <span>SAFELY! </span></h4>--
                 <h3 class="heading3-border">Office Address</h3>
                    <ul>
                      <li class="address-icon"> 103, Chandrang Silver, Javalkarnagar,<br> Pimple Gurav, Pune-411 061. INDIA</li>
-                     <li class="phone-icon">  +91 7709065277</li>
+                     <li class="phone-icon">  +91 8888395979</li>
                      
                      <li class="email-icon"> <a href="mailto:sales@24thmile.com" title="">sales@24thmile.com</a></li>
                    </ul>
