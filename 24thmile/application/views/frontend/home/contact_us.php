@@ -36,7 +36,7 @@ The best logistic _______,  <span>FAST </span> and  <span>SAFELY! </span></h4>--
                 <h3 class="heading3-border">Office Address</h3>
                    <ul>
                      <li class="address-icon"> 103, Chandrang Silver, Javalkarnagar,<br> Pimple Gurav, Pune-411 061. INDIA</li>
-                     <li class="phone-icon">  +91 8888395979</li>
+                     <li class="phone-icon">  +91 8080391630</li>
                      
                      <li class="email-icon"> <a href="mailto:sales@24thmile.com" title="">sales@24thmile.com</a></li>
                    </ul>
@@ -45,7 +45,7 @@ The best logistic _______,  <span>FAST </span> and  <span>SAFELY! </span></h4>--
           </div>
           <div class="col-12 col-lg-6 ">
 				<p>Feel free to talk to our online representative at any time you please using our Live Chat system on our website or one of the below instant messaging programs.</p>
-				<p>Please be patient while waiting for response. (24/7 Support!) Phone For General Inquiries:   +91 8888395979</p>
+				<p>Please be patient while waiting for response. (24/7 Support!) Phone For General Inquiries:   +91 8080391630</p>
           </div>
        </div>
      </div>
